@@ -2,7 +2,7 @@
 import requests
 import json
 
-KEY = 'c1b44fca97f44bbab61c4119d185836d'
+KEY = ''
 
 def get_response(msg):
     apiUrl = 'http://openapi.tuling123.com/openapi/api/v2'
