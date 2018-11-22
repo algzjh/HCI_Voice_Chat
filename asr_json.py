@@ -24,8 +24,8 @@ else:
         # On most other platforms the best timer is time.time()
         timer = time.time
 
-API_KEY = '8tiU0rNiokuo3uyQtvRTtKr1'
-SECRET_KEY = 'vAx7MGoZGiiZQhz9VMC5L3KaSg8eBqbt'
+API_KEY = ''
+SECRET_KEY = ''
 
 # 需要识别的文件
 AUDIO_FILE = 'test.wav' #只支持 pcm/wav/amr
